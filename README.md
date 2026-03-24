@@ -108,3 +108,5 @@ INSERT INTO test_table (name) VALUES ('hello');
 * Connecting database using DBeaver
 
 ---
+## Merge Request Update
+Added Docker Compose setup with volume and environment configuration.
